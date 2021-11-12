@@ -6,7 +6,7 @@ permalink: /about
 # Who are we? 
 Our project team includes: 
 
-*Esther \n
+*Esther "\n"
 *Loren
 
 # Why did we choose this project?
