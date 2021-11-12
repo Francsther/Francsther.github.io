@@ -6,8 +6,8 @@ permalink: /about
 # Who are we? 
 Our project team includes: 
 
-*Esther
-*Loren
+*Esther*
+*Loren*
 
 # Why did we choose this project?
 Every problem deserves to be investigated.
