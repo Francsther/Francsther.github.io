@@ -6,7 +6,7 @@ permalink: /about
 # Who are we? 
 Our project team includes: 
 
-*Esther Adegoke,
+*Esther Adegoke <br />
 Loren Mahia*
 
 # Why did we choose this project?
