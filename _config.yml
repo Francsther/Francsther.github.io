@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Endometriosis: Drug Delivery"
 description:	       "A look into the deisgn process for making injectable hydrogels filled with anasreozole to treat endometriosis"
-author:              "Esther Adegoke"
+author:              "Esther Adegoke and Loren Mahia"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
